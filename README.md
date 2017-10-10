@@ -7,3 +7,12 @@
 # System Architecture
 
 ![system architecture](https://raw.githubusercontent.com/bhlshrf/AirHocky/master/sysArc.jpg)
+
+
+
+# More Info
+
+ you may want take a look at the presentation file 'AirHockey AI Prez.ppsx'
+
+
+ 
