@@ -10,9 +10,16 @@
 
 
 
+# Demo
+
+![demo](https://raw.githubusercontent.com/bhlshrf/AirHocky/master/demo.gif)
+
+
+
 # More Info
 
  you may want take a look at the presentation file 'AirHockey AI Prez.ppsx'
+
 
 
  
