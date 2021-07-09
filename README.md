@@ -1,6 +1,7 @@
 # AirHocky
 
-3D simulation of an air hocky game using java and java3D.
+Physics engine _based on Newton's motion laws_ for simulating an air hocky game, built using __Java__ and __Java3D__.
+Play against AI player who can adapt to your movement
 
 
 
